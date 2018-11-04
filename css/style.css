@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.head{
+	background: #4267B2;
+	color: white ;
+}
+.head h2{
+	font-size: 35px;
+	font-weight: bold;
+}
+form {
+	float: left;
+	margin: 5px 7px;
+}
+span a {
+	color: #F9FAFC;
+	font-size: 12px;
+	text-decoration: none;
+	border: 1px solid #6A5ACD;
+	padding: 5px;
+	float: right;
+	margin-top: 17px;
+}
+form a {
+	color: #F9FAFC;
+}
+/* Contant section */
+.contant{
+	background: #E9EBEE;
+	height: 700px;
+}
+.contant-left h3{
+	font-size: 35px;
+}
+.contant-left p{
+	font-size: 20px;
+}
+.contant-left img {
+	width: 200px;
+	background: white;
+}
+.imga{
+	background: white;
+	width: 205px;
+	border:3px solid white;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+.imga h4 {
+	text-align: center;
+	font-weight: bold;
+}
+/*contant-right*/
+.contant-right h3{
+	font-size: 35px;
+}
+.contant-right p{
+	font-size: 20px;
+}
+.details h5 {
+	font-size: 20px;
+}
+.group-left{
+	float: left;
+}
+.group-right {
+
+}
+.details{
+	float: left;
+}
+.email-adderss{
+	width: 417px;
+}
+.new-password{
+	width: 417px;
+}
+.footer{
+	width: 417px
+}
+.footer p{
+	margin-bottom: 40px;
+}
+.footer a{
+	background: #69A354;
+	padding: 10px 40px;
+	color: white;
+	margin-top: 30px;
+	text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
+}
